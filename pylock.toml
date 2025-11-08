@@ -1,0 +1,5 @@
+lock-version = "1.0"
+created-by = "pip"
+packages = [
+    { name = "stackoverflow-code-challenge", directory = { path = ".", editable = true } },
+]

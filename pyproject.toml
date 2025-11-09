@@ -72,11 +72,11 @@ docs = [
 ]
 
 [project.urls]
-homepage = "https://github/hspaans/stackoverflow-code-challenge"
-documentation = "https://github/hspaans/stackoverflow-code-challenge"
-repository = "https://github/hspaans/stackoverflow-code-challenge"
-issues = "https://github/hspaans/stackoverflow-code-challenge/issues"
-changelog = "https://github/hspaans/stackoverflow-code-challenge/blob/main/CHANGELOG.md"
+homepage = "https://github.com/hspaans/stackoverflow-code-challenge"
+documentation = "https://github.com/hspaans/stackoverflow-code-challenge"
+repository = "https://github.com/hspaans/stackoverflow-code-challenge"
+issues = "https://github.com/hspaans/stackoverflow-code-challenge/issues"
+changelog = "https://github.com/hspaans/stackoverflow-code-challenge/blob/main/CHANGELOG.md"
 
 [tool.pytest.ini_options]
 pythonpath = ["src"]
